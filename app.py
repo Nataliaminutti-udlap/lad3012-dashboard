@@ -34,8 +34,8 @@ TU_ID     = "179834"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
+"Al filtrar las regiones East y West en la categoría Office Supplies durante 2018, el margen fue de solo 4.5% con una ganancia de $3,744, muy por debajo del benchmark del 12%. Esto sugiere que la empresa debería revisar su estrategia de precios o reducir descuentos en esta categoría para mejorar la rentabilidad."
+
 """
 
 # ============================================================
